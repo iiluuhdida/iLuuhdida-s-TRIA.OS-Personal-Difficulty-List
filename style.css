@@ -142,42 +142,6 @@ body {
   background: var(--bg-elevated);
 }
 
-.file-fallback {
-  display: inline-flex;
-  margin-top: 1rem;
-  cursor: pointer;
-  opacity: 0.85;
-}
-
-.file-fallback span {
-  display: inline-block;
-  padding: 0.65rem 1.1rem;
-  font-family: var(--font-display);
-  font-size: 0.7rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--text);
-  border-radius: var(--radius);
-  border: 1px solid transparent;
-  background:
-    linear-gradient(var(--bg), var(--bg)) padding-box,
-    linear-gradient(105deg, var(--orange), var(--magenta), var(--violet)) border-box;
-  transition: transform 0.2s ease, filter 0.2s ease;
-}
-
-.file-fallback:hover span {
-  transform: translateY(-1px);
-  filter: drop-shadow(0 0 12px rgba(255, 106, 26, 0.35));
-}
-
-.file-fallback input {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  opacity: 0;
-  overflow: hidden;
-}
-
 .panel-list {
   min-height: 0;
   height: 100%;
@@ -332,10 +296,6 @@ body {
   .note p {
     font-size: 0.78rem;
     line-height: 1.45;
-  }
-
-  .file-fallback {
-    align-self: center;
   }
 
   .rank-row {

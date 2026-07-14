@@ -1,8 +1,9 @@
 /**
- * Ranking 100% estático — abre index.html no navegador, sem servidor.
- * Fonte padrão: #lista-fonte no HTML. Opcional: carregar um .txt pelo botão.
+ * Ranking estático — carrega list.txt (GitHub Pages).
  * Formato: 5.98 | Bloodlust   |   7.31 | Peer Gynt ?
  */
+
+const LIST_URL = "list.txt";
 
 function parseLista(text) {
   return text
@@ -93,13 +94,14 @@ function loadFromText(text) {
   render(entries);
 }
 
-document.getElementById("file-input").addEventListener("change", (event) => {
-  const file = event.target.files?.[0];
-  if (!file) return;
-  const reader = new FileReader();
-  reader.onload = () => loadFromText(String(reader.result ?? ""));
-  reader.onerror = () => setStatus("Não foi possível ler o arquivo.");
-  reader.readAsText(file);
-});
+async function loadList() {
+  try {
+    const response = await fetch(LIST_URL);
+    if (!response.ok) throw new Error(String(response.status));
+    loadFromText(await response.text());
+  } catch {
+    setStatus("Não foi possível carregar list.txt.");
+  }
+}
 
-loadFromText(document.getElementById("lista-fonte").textContent);
+loadList();
