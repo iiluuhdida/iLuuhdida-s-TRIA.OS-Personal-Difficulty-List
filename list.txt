@@ -1,5 +1,5 @@
 7.43 | Death Corridor ?
-7.37 | Structural Conundrum ?
+7.34 | Structural Conundrum ?
 7.31 | Peer Gynt ?
 7.27 | Ascension To Heaven
 7.15 | Hyperspeed ?
@@ -30,15 +30,18 @@
 6.39 | Dreamscape
 6.35 | Emergency Exit
 6.32 | Volcanic Ruins
+6.30 | Mandragora
 6.29 | /Mind/ /Pulse/
 6.25 | Ascending Hell
 6.23 | Icy Sector
 6.21 | Aurelius: Reimagined
-6.18 | Ominosity
+6.1î | Ominosity
+6.17 | Map Function
 6.16 | Dystopia
-6.15 | Cubic Mechanism
-6.13 | Electro Ether Expense
-6.11 | Venomous Vistas
+6.14 | Cubic Mechanism
+6.13 | Crystalline Devastation
+6.12 | Venomous Vistas
+6.11 | Electro Ether Expense
 6.10 | Hue0
 6.09 | Unstable Presidium
 6.07 | We're Finally Landing
