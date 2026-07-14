@@ -35,9 +35,9 @@
 6.25 | Ascending Hell
 6.23 | Icy Sector
 6.21 | Aurelius: Reimagined
-6.1î | Ominosity
-6.17 | Map Function
-6.16 | Dystopia
+6.18 | Ominosity
+6.16 | Map Function
+6.15 | Dystopia
 6.14 | Cubic Mechanism
 6.13 | Crystalline Devastation
 6.12 | Venomous Vistas
