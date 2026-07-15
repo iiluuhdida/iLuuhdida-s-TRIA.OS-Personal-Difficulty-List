@@ -40,12 +40,12 @@
 6.15 | Dystopia
 6.14 | Cubic Mechanism
 6.13 | Crystalline Devastation
-6.12 | Venomous Vistas
 6.11 | Electro Ether Expense
 6.10 | Hue0
 6.09 | Unstable Presidium
 6.07 | We're Finally Landing
 6.05 | Sight
+6.04 | Venomous Vistas
 6.03 | Golden Zephyr
 6.02 | Industrial Hours
 6.01 | Vell
