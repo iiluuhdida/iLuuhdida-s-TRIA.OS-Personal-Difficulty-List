@@ -13,12 +13,12 @@
 6.85 | Derelict Industry ?
 6.84 | Edge Of Destiny
 6.83 | The Chamber
-6.82 | Cubic Redemption ?
-6.75 | Shattering Sands
-6.72 | Kneeling Shore
-6.71 | Sand Pillar
-6.70 | Tempestuous Blizzard
-6.68 | Complete Control
+6.78 | Cubic Redemption ?
+6.73 | Kneeling Shore
+6.72 | Sand Pillar
+6.71 | Tempestuous Blizzard
+6.70 | Shattering Sands
+6.65 | Complete Control
 6.60 | Vivid
 6.57 | Drainpipe Stream
 6.53 | Cubic Void
