@@ -31,10 +31,11 @@
 6.35 | Emergency Exit
 6.32 | Volcanic Ruins
 6.30 | Mandragora
-6.29 | /Mind/ /Pulse/
-6.25 | Ascending Hell
-6.23 | Icy Sector
-6.21 | Aurelius: Reimagined
+6.28 | /Mind/ /Pulse/
+6.26 | Ascending Hell
+6.24 | Chaotic Expedition
+6.22 | Icy Sector
+6.20 | Aurelius: Reimagined
 6.18 | Ominosity
 6.16 | Map Function
 6.15 | Dystopia
