@@ -18,7 +18,7 @@
 6.70 | Sand Pillar
 6.69 | Tempestuous Blizzard
 6.68 | Shattering Sands
-6.65 | Complete Control
+6.67 | Complete Control
 6.60 | Vivid
 6.57 | Drainpipe Stream
 6.53 | Cubic Void
