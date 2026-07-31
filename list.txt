@@ -1,7 +1,7 @@
 7.43 | Death Corridor ?
 7.34 | Structural Conundrum ?
-7.31 | Peer Gynt ?
 7.27 | Ascension To Heaven
+7.25 | The Golden
 7.15 | Hyperspeed ?
 7.11 | Glacial Outpost
 7.09 | The Empress
@@ -38,9 +38,9 @@
 6.18 | Ominosity
 6.16 | Map Function
 6.15 | Dystopia
-6.14 | Cubic Mechanism
 6.13 | Crystalline Devastation
-6.11 | Electro Ether Expense
+6.12 | Electro Ether Expense
+6.11 | Cubic Mechanism
 6.10 | Hue0
 6.09 | Unstable Presidium
 6.07 | We're Finally Landing
