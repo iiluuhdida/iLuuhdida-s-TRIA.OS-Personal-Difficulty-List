@@ -44,6 +44,7 @@
 6.11 | Cubic Mechanism
 6.10 | Hue0
 6.09 | Unstable Presidium
+6.08 | Cosmic Zenith
 6.07 | We're Finally Landing
 6.06 | Extravaganza
 6.05 | Sight
