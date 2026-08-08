@@ -25,8 +25,8 @@
 6.50 | Yatagarasu
 6.47 | White Void
 6.45 | Code Red: CCM
-6.43 | Scorched Singularity
-6.41 | Dystopian World
+6.41 | Scorched Singularity
+6.40 | Dystopian World
 6.39 | Dreamscape
 6.35 | Emergency Exit
 6.32 | Volcanic Ruins
