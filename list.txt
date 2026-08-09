@@ -25,16 +25,16 @@
 6.50 | Yatagarasu
 6.47 | White Void
 6.45 | Code Red: CCM
-6.41 | Scorched Singularity
-6.40 | Dystopian World
-6.39 | Dreamscape
+6.40 | Scorched Singularity
+6.38 | Dystopian World
 6.35 | Emergency Exit
-6.32 | Volcanic Ruins
-6.30 | Mandragora
-6.28 | /Mind/ /Pulse/
-6.26 | Ascending Hell
-6.24 | Chaotic Expedition
-6.22 | Icy Sector
+6.31 | /Mind/ /Pulse/
+6.30 | Volcanic Ruins
+6.28 | Mandragora
+6.25 | Dreamscape
+6.23 | Ascending Hell
+6.22 | Chaotic Expedition
+6.21 | Icy Sector
 6.20 | Aurelius: Reimagined
 6.18 | Ominosity
 6.16 | Map Function
