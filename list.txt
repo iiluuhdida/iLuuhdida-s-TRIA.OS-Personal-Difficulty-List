@@ -1,20 +1,21 @@
-7.43 | Death Corridor ?
-7.34 | Structural Conundrum ?
+7.42 | Death Corridor ?
 7.27 | Ascension To Heaven
-7.25 | The Golden
+7.23 | The Golden
 7.15 | Hyperspeed ?
 7.11 | Glacial Outpost
 7.09 | The Empress
 7.07 | Endzone ?
 7.00 | Cubic Showdown
-6.99 | Motion ?
-6.98 | Agitato
+6.99 | The Hill's Facility
+6.97 | Motion ?
+6.95 | Agitato
 6.86 | Asterios ?
 6.85 | Derelict Industry ?
 6.84 | Edge Of Destiny
 6.83 | The Chamber
 6.77 | Cubic Redemption ?
-6.72 | Kneeling Shore
+6.73 | Brutal Armageddon
+6.71 | Kneeling Shore
 6.70 | Sand Pillar
 6.69 | Tempestuous Blizzard
 6.68 | Shattering Sands
@@ -26,9 +27,11 @@
 6.47 | White Void
 6.45 | Code Red: CCM
 6.40 | Scorched Singularity
+6.39 | A Laborious Journey
 6.38 | Dystopian World
-6.35 | Emergency Exit
-6.31 | /Mind/ /Pulse/
+6.35 | Gradient Of Life
+6.33 | /Mind/ /Pulse/
+6.31 | Emergency Exit
 6.30 | Volcanic Ruins
 6.28 | Mandragora
 6.25 | Dreamscape
@@ -39,6 +42,7 @@
 6.18 | Ominosity
 6.16 | Map Function
 6.15 | Dystopia
+6.14 | Cosmic Zenith
 6.13 | Crystalline Devastation
 6.12 | Electro Ether Expense
 6.11 | Cubic Mechanism
@@ -49,9 +53,11 @@
 6.06 | Extravaganza
 6.05 | Sight
 6.04 | Venomous Vistas
-6.03 | Golden Zephyr
+6.03 | Hexascape
 6.02 | Industrial Hours
 6.01 | Vell
-6.00 | Monoscape
+6.00 | Nuclear Blizzard
+5.99 | Monoscape
 5.98 | Crimson Castle
-5.95 | Monovoid
+5.95 | Thalassic Terminal
+5.92 | Monovoid
