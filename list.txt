@@ -1,18 +1,17 @@
-7.42 | Death Corridor ?
+7.40 | Death Corridor ?
 7.28 | Ascension To Heaven
 7.27 | Peer Gynt
-7.23 | The Golden
+7.21 | The Golden
 7.15 | Hyperspeed ?
 7.11 | Glacial Outpost
 7.09 | The Empress
 7.00 | Cubic Showdown
 6.99 | The Hill's Facility
 6.95 | Agitato
-6.86 | Asterios ?
-6.85 | Derelict Industry ?
-6.84 | Edge Of Destiny
-6.83 | The Chamber
-6.77 | Cubic Redemption ?
+6.88 | Motion ?
+6.85 | Backburner
+6.83 | Edge Of Destiny
+6.82 | The Chamber
 6.75 | Brutal Armageddon
 6.72 | Kneeling Shore
 6.71 | Sand Pillar
@@ -20,6 +19,7 @@
 6.69 | Tempestuous Blizzard
 6.68 | Shattering Sands
 6.67 | Complete Control
+6.65 | Cubic Redemption
 6.60 | Vivid
 6.57 | Drainpipe Stream
 6.53 | Cubic Void
@@ -33,7 +33,8 @@
 6.33 | /Mind/ /Pulse/
 6.32 | Lost Sewers V2
 6.31 | Emergency Exit
-6.30 | Volcanic Ruins
+6.30 | Cubic Memories
+6.29 | Volcanic Ruins
 6.28 | Mandragora
 6.25 | Dreamscape
 6.23 | Ascending Hell
