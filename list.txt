@@ -10,22 +10,22 @@
 6.95 | Agitato
 6.88 | Motion ?
 6.85 | Backburner
-6.83 | Edge Of Destiny
-6.82 | The Chamber
-6.75 | Brutal Armageddon
-6.72 | Kneeling Shore
-6.71 | Sand Pillar
-6.70 | Pearlescence
+6.82 | Edge Of Destiny
+6.80 | The Chamber
+6.73 | Brutal Armageddon
+6.70 | Sand Pillar
 6.69 | Tempestuous Blizzard
 6.68 | Shattering Sands
 6.67 | Complete Control
 6.65 | Cubic Redemption
+6.63 | Kneeling Shore
 6.60 | Vivid
-6.57 | Drainpipe Stream
+6.58 | Drainpipe Stream
 6.53 | Cubic Void
-6.50 | Yatagarasu
-6.47 | White Void
-6.45 | Code Red: CCM
+6.50 | Code Red: CCM
+6.48 | Pearlescence
+6.47 | Yatagarasu
+6.45 | White Void
 6.40 | Scorched Singularity
 6.39 | A Laborious Journey
 6.38 | Dystopian World
