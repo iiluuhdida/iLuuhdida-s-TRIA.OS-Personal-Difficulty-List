@@ -59,10 +59,10 @@
 6.03 | Hexascape
 6.02 | Industrial Hours
 6.01 | Vell
-6.00 | Monoscape
+6.00 | Dystopian Outpost
 5.99 | Nuclear Blizzard
-5.98 | Dystopian Outpost
+5.98 | Monoscape
 5.97 | Blockfire Heights
-5.96 | Crimson Castle
-5.95 | Thalassic Terminal
+5.96 | Thalassic Terminal
+5.95 | Crimson Castle
 5.93 | Monovoid
