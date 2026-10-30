@@ -21,9 +21,9 @@
 6.63 | Kneeling Shore
 6.60 | Vivid
 6.58 | Drainpipe Stream
+6.55 | Pearlescence
 6.53 | Cubic Void
 6.50 | Code Red: CCM
-6.48 | Pearlescence
 6.47 | Yatagarasu
 6.45 | White Void
 6.40 | Scorched Singularity
